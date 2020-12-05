@@ -2,4 +2,4 @@
 
 Make an old school drinking game for the phone.
 
-![Screenshot](img/screenshot.png)
+![Screenshot](public/img/screenshot.png)
