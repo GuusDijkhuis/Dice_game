@@ -1,0 +1,15 @@
+.Game {
+	width: 100%;
+	margin: 0 auto;
+}
+button {
+	padding: .5rem 1rem;
+	font-size: 2rem;
+	border-radius: none;
+}
+h1 {
+	font-size: 3rem;
+}
+h2 {
+	font-size: 2rem;
+}
