@@ -9,8 +9,11 @@ Make an old school drinking game for your mobile phone browser. If you roll the 
 If you want to play the game you can clone the project to your own computer and start the server with the following scripts.
 
 ```git clone```
+
 ```cd dice_games```
+
 ```npm install```
+
 ```npm start```
 
 ### Progress
