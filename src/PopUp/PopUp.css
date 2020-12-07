@@ -1,0 +1,27 @@
+.PopUp {
+	width: 100vw;
+	position: absolute;
+	top: 8rem;
+	left: -100vw;
+	font-size: 2rem;
+	font-weight: 600;
+	color: white;
+	padding: 1rem 0;
+	animation-name: popup;
+	animation-duration: 5s;
+	background-color: tomato;
+}
+@keyframes popup {
+	0% {
+		left: -100vw;
+	}
+	20% {
+		left: 0%;
+	}
+	80% {
+		left: 0%;
+	}
+	100% {
+		left: -100vw;
+	}
+}

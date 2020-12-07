@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 
 import Dice from '../Dice/Dice';
 
+import './Dices.css';
+
 class Dices extends Component {
 	render() {
 		const nums = ["one","two","three","four","five","six"];

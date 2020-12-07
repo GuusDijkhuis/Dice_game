@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+font-family: 'Rosario';
+src: local('Rosario'), url(./fonts/Rosario-Bold.ttf) format('truetype');
+}
