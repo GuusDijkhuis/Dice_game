@@ -1,6 +1,6 @@
 # Mexxen
 
-Make an old school drinking game for the phone. If you roll the dice, mex can be thrown. This means that the number of sips is doubled. Below is a nice screenshot of the app.
+Make an old school drinking game for your mobile phone browser. If you roll the dice, mex can be thrown. This means that the number of sips is doubled. Below is a nice screenshot of the app.
 
 ![Screenshot](public/img/screenshot.png)
 
